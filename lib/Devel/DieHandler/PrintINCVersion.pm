@@ -56,3 +56,10 @@ The versions will be extracted using L<ExtUtils::MakeMaker>'s C<parse_version>.
 
 Unimporting (via C<no Devel::DieHandler::PrintINCVersion>) after importing
 restores the previous handler.
+
+
+=head1 SEE ALSO
+
+L<Devel::End::PrintINCVersion>
+
+Other C<Devel::DieHandler::*> modules
